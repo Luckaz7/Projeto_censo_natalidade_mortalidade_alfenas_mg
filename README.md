@@ -2,6 +2,8 @@
 
 Fonte dos dados: https://cidades.ibge.gov.br/brasil/mg/alfenas/pesquisa/20/29767
 
+(Para facilitar a utilização do repositório, disponibilizei o arquivo .csv bruto extraido do link acima utilizado como dataset na análise)
+
 Este projeto tem como objetivo analisar os dados de natalidade e mortalidade da cidade de Alfenas, Minas Gerais, abrangendo o período de 2004 a 2024. O foco é extrair, padronizar, transformar e visualizar esses dados para identificar tendências e padrões nos registros de nascimentos e óbitos, tanto em registros hospitalares quanto em cartórios de registro civil (CRC).
 
 Processos Realizados:
